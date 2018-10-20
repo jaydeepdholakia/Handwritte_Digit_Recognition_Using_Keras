@@ -1,4 +1,4 @@
-# Handwritte_Digit_Recognition_Using_Keras
+# Handwritten_Digit_Recognition_Using_Keras
 An ANN (Artificial Neural Network) for predicting the handwritten digit. Created with the help of Keras.
 
 ## Dataset used
